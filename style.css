@@ -1,0 +1,39 @@
+/*Written By Isaac Bucknell
+Completed on October 20th, 2022*/
+
+/* Style Body tag */
+body {
+    background-color:black;
+    font-family: Arial;
+    color: white;
+}
+
+/*Form Title Text Style*/
+h1{
+    color:gray;
+    font-family: verdana;
+    text-align: center;
+}
+
+/*Styling for Background of form & text*/
+.maindiv{
+    
+    background-color:white;
+    color: black;
+    width: 500px;
+    padding: 20px;
+    border-radius: 25px;
+}
+
+/*Styling to center form content*/
+.userInput{
+    margin-left: 50px;
+}
+
+/*Styling for highlighted Text*/
+.highlight{
+    background-color: yellow;
+}
+
+
+
